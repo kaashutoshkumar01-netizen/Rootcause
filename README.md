@@ -323,3 +323,37 @@ Add a Railway PostgreSQL plugin and it sets `DATABASE_URL` for you.
 The 20-node concept graph currently covers linear algebra fundamentals
 through transformers — enough to fully demo backpropagation and
 attention diagnoses multiple steps upstream, exactly as pitched.
+
+## Features
+
+- Concept Diagnosis
+- Bug Hunt Challenges
+- Teach-Back Evaluation
+- Personalized Learning Path
+- Concept Dependency Graph
+- Progress Tracking
+- Leaderboard & Gamification
+- Analytics Dashboard
+
+## Tech Stack
+
+### Frontend
+- React
+- Vite
+
+### Backend
+- FastAPI
+- Python
+
+### Database
+- SQLite (Development)
+- PostgreSQL (Production)
+
+## Run Locally
+
+### Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
