@@ -334,6 +334,13 @@ attention diagnoses multiple steps upstream, exactly as pitched.
 - Progress Tracking
 - Leaderboard & Gamification
 - Analytics Dashboard
+- Concept Graph
+- Learning Recommendations
+- Analytics Dashboard
+- Progress Tracking
+- Gamification
+- FastAPI Backend
+- React Frontend
 
 ## Tech Stack
 
@@ -352,6 +359,9 @@ attention diagnoses multiple steps upstream, exactly as pitched.
 ## Run Locally
 
 ### Backend
+
+Deployment:
+- Render
 
 ```bash
 cd backend
